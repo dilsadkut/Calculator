@@ -1,2 +1,2 @@
 # Calculator
-Calculator example made with Python tkinter module
+Calculator example made with python tkinter module
